@@ -1,0 +1,6 @@
+D:\ASPNet8\CloudHRMS.ReportHelper\obj\Debug\CloudHRMS.ReportHelper.csproj.AssemblyReference.cache
+D:\ASPNet8\CloudHRMS.ReportHelper\obj\Debug\CloudHRMS.ReportHelper.csproj.CoreCompileInputs.cache
+D:\ASPNet8\CloudHRMS.ReportHelper\bin\Debug\CloudHRMS.ReportHelper.dll
+D:\ASPNet8\CloudHRMS.ReportHelper\bin\Debug\CloudHRMS.ReportHelper.pdb
+D:\ASPNet8\CloudHRMS.ReportHelper\obj\Debug\CloudHRMS.ReportHelper.dll
+D:\ASPNet8\CloudHRMS.ReportHelper\obj\Debug\CloudHRMS.ReportHelper.pdb

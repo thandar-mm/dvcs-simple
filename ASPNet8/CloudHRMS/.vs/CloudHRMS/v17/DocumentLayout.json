@@ -1,0 +1,396 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASPNet8\\CloudHRMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE154C8-57B0-4F8A-B6AA-378125A41D0A}|CloudHRMS.csproj|d:\\aspnet8\\cloudhrms\\views\\employeereport\\reportbyemployeefromcodetocode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDE154C8-57B0-4F8A-B6AA-378125A41D0A}|CloudHRMS.csproj|solutionrelative:views\\employeereport\\reportbyemployeefromcodetocode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE154C8-57B0-4F8A-B6AA-378125A41D0A}|CloudHRMS.csproj|d:\\aspnet8\\cloudhrms\\controllers\\employeereportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDE154C8-57B0-4F8A-B6AA-378125A41D0A}|CloudHRMS.csproj|solutionrelative:controllers\\employeereportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE154C8-57B0-4F8A-B6AA-378125A41D0A}|CloudHRMS.csproj|d:\\aspnet8\\cloudhrms\\wwwroot\\rdlcreportfile\\employeedetailreport.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{DDE154C8-57B0-4F8A-B6AA-378125A41D0A}|CloudHRMS.csproj|solutionrelative:wwwroot\\rdlcreportfile\\employeedetailreport.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE154C8-57B0-4F8A-B6AA-378125A41D0A}|CloudHRMS.csproj|d:\\aspnet8\\cloudhrms\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDE154C8-57B0-4F8A-B6AA-378125A41D0A}|CloudHRMS.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE154C8-57B0-4F8A-B6AA-378125A41D0A}|CloudHRMS.csproj|d:\\aspnet8\\cloudhrms\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDE154C8-57B0-4F8A-B6AA-378125A41D0A}|CloudHRMS.csproj|solutionrelative:services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE154C8-57B0-4F8A-B6AA-378125A41D0A}|CloudHRMS.csproj|d:\\aspnet8\\cloudhrms\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDE154C8-57B0-4F8A-B6AA-378125A41D0A}|CloudHRMS.csproj|solutionrelative:views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE154C8-57B0-4F8A-B6AA-378125A41D0A}|CloudHRMS.csproj|d:\\aspnet8\\cloudhrms\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDE154C8-57B0-4F8A-B6AA-378125A41D0A}|CloudHRMS.csproj|solutionrelative:services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE154C8-57B0-4F8A-B6AA-378125A41D0A}|CloudHRMS.csproj|d:\\aspnet8\\cloudhrms\\views\\employee\\entry.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDE154C8-57B0-4F8A-B6AA-378125A41D0A}|CloudHRMS.csproj|solutionrelative:views\\employee\\entry.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE154C8-57B0-4F8A-B6AA-378125A41D0A}|CloudHRMS.csproj|d:\\aspnet8\\cloudhrms\\migrations\\20240606035145_enableidentityuifunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDE154C8-57B0-4F8A-B6AA-378125A41D0A}|CloudHRMS.csproj|solutionrelative:migrations\\20240606035145_enableidentityuifunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE154C8-57B0-4F8A-B6AA-378125A41D0A}|CloudHRMS.csproj|d:\\aspnet8\\cloudhrms\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDE154C8-57B0-4F8A-B6AA-378125A41D0A}|CloudHRMS.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE154C8-57B0-4F8A-B6AA-378125A41D0A}|CloudHRMS.csproj|d:\\aspnet8\\cloudhrms\\views\\employee\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDE154C8-57B0-4F8A-B6AA-378125A41D0A}|CloudHRMS.csproj|solutionrelative:views\\employee\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE154C8-57B0-4F8A-B6AA-378125A41D0A}|CloudHRMS.csproj|d:\\aspnet8\\cloudhrms\\views\\position\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDE154C8-57B0-4F8A-B6AA-378125A41D0A}|CloudHRMS.csproj|solutionrelative:views\\position\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE154C8-57B0-4F8A-B6AA-378125A41D0A}|CloudHRMS.csproj|d:\\aspnet8\\cloudhrms\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDE154C8-57B0-4F8A-B6AA-378125A41D0A}|CloudHRMS.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ASPNet8\\AdminLTE-3.2.0\\index3.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE154C8-57B0-4F8A-B6AA-378125A41D0A}|CloudHRMS.csproj|d:\\aspnet8\\cloudhrms\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDE154C8-57B0-4F8A-B6AA-378125A41D0A}|CloudHRMS.csproj|solutionrelative:controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE154C8-57B0-4F8A-B6AA-378125A41D0A}|CloudHRMS.csproj|d:\\aspnet8\\cloudhrms\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDE154C8-57B0-4F8A-B6AA-378125A41D0A}|CloudHRMS.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE154C8-57B0-4F8A-B6AA-378125A41D0A}|CloudHRMS.csproj|d:\\aspnet8\\cloudhrms\\dao\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDE154C8-57B0-4F8A-B6AA-378125A41D0A}|CloudHRMS.csproj|solutionrelative:dao\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE154C8-57B0-4F8A-B6AA-378125A41D0A}|CloudHRMS.csproj|d:\\aspnet8\\cloudhrms\\areas\\identity\\pages\\account\\manage\\personaldata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDE154C8-57B0-4F8A-B6AA-378125A41D0A}|CloudHRMS.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\personaldata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE154C8-57B0-4F8A-B6AA-378125A41D0A}|CloudHRMS.csproj|d:\\aspnet8\\cloudhrms\\areas\\identity\\pages\\account\\manage\\managenavpages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDE154C8-57B0-4F8A-B6AA-378125A41D0A}|CloudHRMS.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\managenavpages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE154C8-57B0-4F8A-B6AA-378125A41D0A}|CloudHRMS.csproj|d:\\aspnet8\\cloudhrms\\areas\\identity\\pages\\account\\manage\\_managenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDE154C8-57B0-4F8A-B6AA-378125A41D0A}|CloudHRMS.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\_managenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE154C8-57B0-4F8A-B6AA-378125A41D0A}|CloudHRMS.csproj|d:\\aspnet8\\cloudhrms\\areas\\identity\\pages\\account\\manage\\personaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDE154C8-57B0-4F8A-B6AA-378125A41D0A}|CloudHRMS.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\personaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE154C8-57B0-4F8A-B6AA-378125A41D0A}|CloudHRMS.csproj|d:\\aspnet8\\cloudhrms\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDE154C8-57B0-4F8A-B6AA-378125A41D0A}|CloudHRMS.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeReportController.cs",
+              "DocumentMoniker": "D:\\ASPNet8\\CloudHRMS\\Controllers\\EmployeeReportController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeReportController.cs",
+              "ToolTip": "D:\\ASPNet8\\CloudHRMS\\Controllers\\EmployeeReportController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeReportController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T09:02:46.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReportByEmployeeFromCodeToCode.cshtml",
+              "DocumentMoniker": "D:\\ASPNet8\\CloudHRMS\\Views\\EmployeeReport\\ReportByEmployeeFromCodeToCode.cshtml",
+              "RelativeDocumentMoniker": "Views\\EmployeeReport\\ReportByEmployeeFromCodeToCode.cshtml",
+              "ToolTip": "D:\\ASPNet8\\CloudHRMS\\Views\\EmployeeReport\\ReportByEmployeeFromCodeToCode.cshtml",
+              "RelativeToolTip": "Views\\EmployeeReport\\ReportByEmployeeFromCodeToCode.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T09:04:35.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeDetailReport.rdlc [Design]",
+              "DocumentMoniker": "D:\\ASPNet8\\CloudHRMS\\wwwroot\\RDLCReportFile\\EmployeeDetailReport.rdlc",
+              "RelativeDocumentMoniker": "wwwroot\\RDLCReportFile\\EmployeeDetailReport.rdlc",
+              "ToolTip": "D:\\ASPNet8\\CloudHRMS\\wwwroot\\RDLCReportFile\\EmployeeDetailReport.rdlc [Design]",
+              "RelativeToolTip": "wwwroot\\RDLCReportFile\\EmployeeDetailReport.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-06-07T11:47:23.508Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "D:\\ASPNet8\\CloudHRMS\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "D:\\ASPNet8\\CloudHRMS\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AQIAAAoBAAAAAAAAAAAAwBsBAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T06:26:53.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "D:\\ASPNet8\\CloudHRMS\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Services\\EmployeeService.cs",
+              "ToolTip": "D:\\ASPNet8\\CloudHRMS\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "Services\\EmployeeService.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAHMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T09:51:02.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\ASPNet8\\CloudHRMS\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\ASPNet8\\CloudHRMS\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwGQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T09:16:02.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "D:\\ASPNet8\\CloudHRMS\\Services\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "Services\\IEmployeeService.cs",
+              "ToolTip": "D:\\ASPNet8\\CloudHRMS\\Services\\IEmployeeService.cs",
+              "RelativeToolTip": "Services\\IEmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T10:53:43.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Entry.cshtml",
+              "DocumentMoniker": "D:\\ASPNet8\\CloudHRMS\\Views\\Employee\\Entry.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\Entry.cshtml",
+              "ToolTip": "D:\\ASPNet8\\CloudHRMS\\Views\\Employee\\Entry.cshtml",
+              "RelativeToolTip": "Views\\Employee\\Entry.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T09:09:30.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240606035145_EnableIdentityUIFunc.cs",
+              "DocumentMoniker": "D:\\ASPNet8\\CloudHRMS\\Migrations\\20240606035145_EnableIdentityUIFunc.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240606035145_EnableIdentityUIFunc.cs",
+              "ToolTip": "D:\\ASPNet8\\CloudHRMS\\Migrations\\20240606035145_EnableIdentityUIFunc.cs",
+              "RelativeToolTip": "Migrations\\20240606035145_EnableIdentityUIFunc.cs",
+              "ViewState": "AQIAALsAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T03:51:46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ASPNet8\\CloudHRMS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ASPNet8\\CloudHRMS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAIBJwCgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T13:39:44.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "D:\\ASPNet8\\CloudHRMS\\Views\\Position\\List.cshtml",
+              "RelativeDocumentMoniker": "Views\\Position\\List.cshtml",
+              "ToolTip": "D:\\ASPNet8\\CloudHRMS\\Views\\Position\\List.cshtml",
+              "RelativeToolTip": "Views\\Position\\List.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAIBJwCMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T13:49:59.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "D:\\ASPNet8\\CloudHRMS\\Views\\Employee\\List.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\List.cshtml",
+              "ToolTip": "D:\\ASPNet8\\CloudHRMS\\Views\\Employee\\List.cshtml",
+              "RelativeToolTip": "Views\\Employee\\List.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T13:53:19.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASPNet8\\CloudHRMS\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\ASPNet8\\CloudHRMS\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIBAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T13:41:09.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "index3.html",
+              "DocumentMoniker": "D:\\ASPNet8\\AdminLTE-3.2.0\\index3.html",
+              "RelativeDocumentMoniker": "..\\AdminLTE-3.2.0\\index3.html",
+              "ToolTip": "D:\\ASPNet8\\AdminLTE-3.2.0\\index3.html",
+              "RelativeToolTip": "..\\AdminLTE-3.2.0\\index3.html",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-06T06:21:42.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "D:\\ASPNet8\\CloudHRMS\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DepartmentController.cs",
+              "ToolTip": "D:\\ASPNet8\\CloudHRMS\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAkwEQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T04:06:21.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\ASPNet8\\CloudHRMS\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\ASPNet8\\CloudHRMS\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAKUBAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T03:52:16.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\ASPNet8\\CloudHRMS\\DAO\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DAO\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\ASPNet8\\CloudHRMS\\DAO\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DAO\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T03:31:04.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PersonalData.cshtml",
+              "DocumentMoniker": "D:\\ASPNet8\\CloudHRMS\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml",
+              "ToolTip": "D:\\ASPNet8\\CloudHRMS\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T03:27:22.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ManageNavPages.cs",
+              "DocumentMoniker": "D:\\ASPNet8\\CloudHRMS\\Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "ToolTip": "D:\\ASPNet8\\CloudHRMS\\Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T03:27:21.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ManageNav.cshtml",
+              "DocumentMoniker": "D:\\ASPNet8\\CloudHRMS\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "ToolTip": "D:\\ASPNet8\\CloudHRMS\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T03:27:21.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PersonalData.cshtml.cs",
+              "DocumentMoniker": "D:\\ASPNet8\\CloudHRMS\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml.cs",
+              "ToolTip": "D:\\ASPNet8\\CloudHRMS\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T03:27:21.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\ASPNet8\\CloudHRMS\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\ASPNet8\\CloudHRMS\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T02:47:36.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

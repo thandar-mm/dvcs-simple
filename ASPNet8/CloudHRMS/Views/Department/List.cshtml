@@ -1,0 +1,58 @@
+﻿@model IList<DepartmentViewModel>
+<h1>Department List Information</h1>
+@if (TempData["info"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["info"]
+    </div>
+
+}
+
+<table class="table table-hover" id="DepartmentTable">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Code</th>
+            <th scope="col">Name</th>
+            <th scope="col">ExtensionPhone</th>
+            <th scope="col">Total Employee Count(s)</th>
+            @if (User.IsInRole("HR"))
+            {
+                <th scope="col">Action</th>
+            }
+            
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            int index = 1;
+        }
+        @foreach (var item in Model)
+        {
+            <tr>
+                <th scope="row">@index</th>
+                <td>@item.Code</td>
+                <td>@item.Name</td>
+                <td>@item.ExtensionPhone</td>
+                <td>@item.TotalEmployeeCount</td>
+                @if (User.IsInRole("HR"))
+                {
+                    <td>
+                        <div class="btn btn-group p-1">
+                            <a href="/Department/Edit?id=@item.Id" class="btn btn-primary" role="button">Edit</a>
+                            <a class="btn btn-primary" asp-action="Delete" asp-controller="Department" asp-route-id="@item.Id" onclick="return confirm('Are you Sure to Delete this record?');">Delete</a>
+                        </div>
+                    </td>
+                }
+                
+            </tr>
+            index++;
+        }
+    </tbody>
+</table>
+
+<script>
+    $(document).ready(function () {
+        $('#DepartmentTable').DataTable();
+    });
+</script>
